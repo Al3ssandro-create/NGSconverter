@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ScalaCompilerConfiguration">
+    <profile name="sbt 1" modules="ngs_translator_5341" />
+    <profile name="sbt 2" modules="nsg_translator">
+      <option name="compileOrder" value="JavaThenScala" />
+    </profile>
+  </component>
+</project>
